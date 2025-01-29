@@ -1,6 +1,6 @@
 # DFA-based Methods
-* this is a repo where I'm programming concepts from theortical CS
-* the goal is to practice these concepts and learn mojo language
+* This is a repo for programming concepts from theortical CS
+* The goal is to practice these concepts and learn Mojo language
 
 ## DFA_1
 * {w | w starts with 0 }
