@@ -1,5 +1,5 @@
 # DFA_Practice
-* This is a repo for programming concepts from theortical CS
+* This is a repository for programming concepts from theortical CS
 * The goal is to practice these concepts and learn Mojo language
 
 ## DFA_1
