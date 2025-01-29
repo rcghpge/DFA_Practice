@@ -1,4 +1,4 @@
-# DFA-based Methods
+# DFA_Practice
 * This is a repo for programming concepts from theortical CS
 * The goal is to practice these concepts and learn Mojo language
 
