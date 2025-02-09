@@ -6,7 +6,12 @@
 * {w | w starts with 0 }
 * accepts only strings in {0, 1} that start with 0
 
-# DFA_2  
+## DFA_2  
 * {w | w begins with 1 ends with 0 }
 * q0 = start state
 * q2 = accepting state
+
+## DFA_3
+* written in C
+* {w | w contains the substring "ab"}
+* sigma = {a,b}
