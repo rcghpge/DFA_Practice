@@ -10,3 +10,8 @@
 * {w | w begins with 1 ends with 0 }
 * q0 = start state
 * q2 = accepting state
+
+## DFA_3
+* written in C
+* {w | w contains the substring "ab"}
+* sigma = {a,b}
